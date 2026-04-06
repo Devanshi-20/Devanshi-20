@@ -18,8 +18,6 @@ I am a results-driven Business & Data Analyst with experience in data analysis, 
 
 📉 Experienced in KPI tracking, business performance analysis, and dashboard development
 
-🌎 Based in Toronto, Canada
-
 💡 Interested in AI-powered analytics, data engineering, and product analytics
 
 * 🌍  I'm based in Toronto ON
