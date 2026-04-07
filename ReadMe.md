@@ -30,7 +30,7 @@ I'm a **Results-driven Business Data Analyst** with **5+ years** of experience b
 
 Currently completing a **Postgraduate Certificate in Applied AI Solution Development** at **George Brown College, Toronto**, where I'm blending traditional analytics with modern AI capabilities.
 
-🏆 **Award-Winning Work**: Hero for October (2025) · ACE Award — Tech Mahindra · Outstanding Contribution — SAFSS  
+🏆 **Award-Winning Work**:  ACE Award — Tech Mahindra · Outstanding Contribution — SAFSS  
 🌍 **Based in**: Toronto, Canada · Open to Data Analyst / Business Analyst roles  
 
 ---
@@ -83,10 +83,10 @@ Currently completing a **Postgraduate Certificate in Applied AI Solution Develop
 
 | 🗂️ Project | 🔍 What It Does | 🧰 Stack |
 |---|---|---|
-| **[🗄️ HackerRank SQL Challenges](./hackerrank-sql)** | Full solutions — SELECT, Joins, Aggregation, Advanced, 15 Days of Learning SQL | SQL, MySQL |
+| **🗄️ HackerRank SQL Challenges** | Full solutions — SELECT, Joins, Aggregation, Advanced, 15 Days of Learning SQL | SQL, MySQL |
 | **📊 Power BI KPI Dashboard** | Operational dashboards for leadership decision-making | Power BI, DAX |
 | **🔁 ETL Pipeline Design** | Multi-source data integration: Salesforce, SharePoint, CSV, SQL | SSIS, SQL Server |
-| **🤖 AI Solution Dev** | Applied AI coursework & projects — George Brown College | Python, Azure AI |
+| **🤖 Emotion-Detection-Chatbot** | Applied AI coursework & projects — George Brown College | Python, AWS |
 
 </div>
 
@@ -124,7 +124,6 @@ Currently completing a **Postgraduate Certificate in Applied AI Solution Develop
 
 | 🎖️ Award / Cert | 🏢 Issuer | 📅 Year |
 |---|---|---|
-| 🥇 **Hero for October Award** | Tilray Brands | 2025 |
 | ☁️ **Microsoft Azure AI Fundamentals** | Microsoft | 2025 |
 | 🌟 **Outstanding Contribution Recognition** | SAFSS Canada | 2024 |
 | 🏆 **SAFe® 6 Agilist** | Scaled Agile Inc. | 2023 |
