@@ -28,7 +28,8 @@
 
 I'm a **Results-driven Business Data Analyst** with **5+ years** of experience bridging the gap between complex data systems and real business outcomes. From insurance policy platforms at **Tech Mahindra** to ERP master data at **Tilray Brands**, I've built ETL pipelines, dashboards, and reporting solutions that drive decisions — not just reports.
 
-Currently completing a **Postgraduate Certificate in Applied AI Solution Development** at **George Brown College, Toronto**, where I'm blending traditional analytics with modern AI capabilities.
+Completed a **Postgraduate Certificate in Applied AI Solution** Development from George Brown College, Toronto, blending data analytics with modern AI capabilities. Experienced in ML techniques including regression, decision trees, classification, and clustering, with a strong focus on responsible AI and ethical practices. Skilled in turning data into insights using Tableau and Alteryx.
+
 
 🏆 **Award-Winning Work**:  ACE Award — Tech Mahindra · Outstanding Contribution — SAFSS  
 🌍 **Based in**: Toronto, Canada · Open to Data Analyst / Business Analyst roles  
