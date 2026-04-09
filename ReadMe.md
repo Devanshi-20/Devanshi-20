@@ -97,26 +97,22 @@ Completed a **Postgraduate Certificate in Applied AI Solution** Development from
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Devanshi-20&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=4FC3F7&text_color=c9d1d9&icon_color=4FC3F7"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Devanshi-20&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=4FC3F7&text_color=c9d1d9"/>
-
-</div>
-
-<div align="center">
-
-<!-- 🔥 Streak Stats — tracks daily commits & continuous contribution streak -->
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Devanshi-20&theme=tokyonight&hide_border=true&background=0d1117&stroke=4FC3F7&ring=4FC3F7&fire=ff6b6b&currStreakLabel=4FC3F7&sideLabels=c9d1d9&dates=6e7681&currStreakNum=ffffff&sideNums=ffffff" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Devanshi-20&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=4FC3F7&text_color=c9d1d9&icon_color=4FC3F7&cache_seconds=1800&rank_icon=github" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Devanshi-20&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=4FC3F7&text_color=c9d1d9&cache_seconds=1800&exclude_repo=github-readme-stats" />
 
 </div>
 
 <div align="center">
 
-<!-- 📅 Activity Graph — visualises daily commit frequency over time -->
-<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=Devanshi-20&bg_color=0d1117&color=4FC3F7&line=4FC3F7&point=ff6b6b&area=true&hide_border=true&area_color=203a43" />
+<img width="70%" src="https://streak-stats.demolab.com?user=Devanshi-20&theme=tokyonight&hide_border=true&background=0d1117&stroke=4FC3F7&ring=4FC3F7&fire=ff6b6b&currStreakLabel=4FC3F7&sideLabels=c9d1d9&dates=6e7681&currStreakNum=ffffff&sideNums=ffffff&date_format=j%20M%5B%20Y%5D&timezone=America%2FToronto" />
 
 </div>
 
+<div align="center">
+
+<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=Devanshi-20&bg_color=0d1117&color=4FC3F7&line=4FC3F7&point=ff6b6b&area=true&hide_border=true&area_color=203a43&custom_title=Contribution%20Activity&days=30" />
+
+</div>
 ---
 
 ## 🏅 Certifications & Achievements
