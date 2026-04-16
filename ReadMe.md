@@ -153,7 +153,7 @@ If you're working on something exciting with data — let's talk!
 
 [![LinkedIn](https://img.shields.io/badge/Connect%20on%20LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/devanshi-dave20)
 [![Email](https://img.shields.io/badge/Send%20an%20Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:devanshishukla1996@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Visit%20My%20Portfolio-0C6EFC?style=for-the-badge&logo=wix&logoColor=white)](https://devanshishukla1996.wixsite.com/project)
+[![Blog](https://img.shields.io/badge/Visit%20My%20Portfolio-0C6EFC?style=for-the-badge&logo=wix&logoColor=white)](https://medium.com/@devanshiDave20)
 
 <br/>
 
