@@ -17,6 +17,7 @@
 [![Azure AI](https://img.shields.io/badge/Microsoft-Azure%20AI%20Certified-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white)](#)
 [![SAFe Agile](https://img.shields.io/badge/SAFe%C2%AE%206-Agilist%20Certified-F7941D?style=for-the-badge&logo=agile&logoColor=white)](#)
 [![Portfolio](https://img.shields.io/badge/🌐%20My%20Portfolio-Visit%20Website-0C6EFC?style=for-the-badge&logo=wix&logoColor=white)](https://devanshishukla1996.wixsite.com/project)
+[![Blog](https://img.shields.io/badge/Medium-Read%20My%20Articles-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@devanshiDave20)
 
 </div>
 
