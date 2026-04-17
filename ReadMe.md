@@ -64,7 +64,7 @@ Completed a **Postgraduate Certificate in Applied AI Solution** Development from
 ## 💼 Experience Highlights
 
 ```text
-📍 WebMobi Technologies Inc       │ Jr Business Analyst     │ Jan 2026 – Present
+📍 WebMobi Technologies I │ Jr Business Analyst         │ Jan 2026 – Present
    ↳ Business requirements gathering → translated client needs into BRDs, user stories & functional specs, improving delivery clarity and alignment across teams
    ↳ Cross-functional collaboration  + process analysis → streamlined workflows, reduced requirement gaps, and improved solution accuracy 
 
