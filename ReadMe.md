@@ -89,6 +89,7 @@ Completed a **Postgraduate Certificate in Applied AI Solution** Development from
 
 | 🗂️ Project | 🔍 What It Does | 🧰 Stack |
 |---|---|---|
+| **🗄️ Enterprise-Sales-Intelligence-Platform** | tracking KPIs and executive-level decision-making insights  | SQL, MySQL |
 | **🗄️ HackerRank SQL Challenges** | Full solutions — SELECT, Joins, Aggregation, Advanced, 15 Days of Learning SQL | SQL, MySQL |
 | **📊 Power BI KPI Dashboard** | Operational dashboards for leadership decision-making | Power BI, DAX |
 | **🔁 ETL Pipeline Design** | Multi-source data integration: Salesforce, SharePoint, CSV, SQL | SSIS, SQL Server |
